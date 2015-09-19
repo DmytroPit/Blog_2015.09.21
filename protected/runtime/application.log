@@ -1,0 +1,709 @@
+2015/09/18 11:48:41 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 11:49:19 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 11:49:23 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii/
+---
+2015/09/18 11:49:26 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 11:49:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii/
+---
+2015/09/18 11:49:55 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:07:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:07:15 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:10:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:10:47 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:13:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:18:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:18:12 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 12:18:14 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 13:23:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 14:33:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /web/yii-1.1.16.bca042/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('')
+#2 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /web/blog/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/blog/index.php?r=gii
+---
+2015/09/18 19:05:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii
+---
+2015/09/18 19:15:27 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'mukachevo'' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii
+---
+2015/09/18 19:15:47 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'dydlik'' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii
+---
+2015/09/18 20:38:47 [error] [system.db.CDbCommand] Error in preparing SQL: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT "",
+	"category_id" INT UNSIGNED NOT NULL,
+	"sub_category_id" INT UNSIGNED NULL DEFAULT NULL,
+	"city_id" INT UNSIGNED NOT NULL ,
+	"short_description" VARCHAR(200) NOT NULL DEFAULT "",
+	"description" TEXT NULL DEFAULT NULL,
+	"image_id" INT UNSIGNED DEFAULT NULL,
+	"modified" INT UNSIGNED NOT NULL,
+	"created" INT UNSIGNED NOT NULL,
+	"author_id" INT UNSIGNED NOT NULL,
+	"date_and_time" DATETIME NOT NULL,
+	"position" INT UNSIGNED NOT NULL DEFAULT 0,
+	"video" TEXT NOT NULL DEFAULT "",
+	"comment" TEXT NULL DEFAULT NULL,
+	"status" INT UNSIGNED NULL DEFAULT NULL,
+	"news_type_id" INT(10) UNSIGNED NOT NULL,
+	"is_share_vk" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in vk; 1 - post in vk",
+	"is_share_google" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in google; 1 - post in google",
+	"is_share_facebook" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in facebook; 1 - post in facebook",
+	"is_share_twitter" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in twitter; 1 - post in twitter",
+	"hot_in_header" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"set_edition" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"news_line" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in line; 1 - in line",
+	"top_news" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not top news; 1 - top news",
+	"foto_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"video_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"is_publicated" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not publicated yet; 1 - already publicate",
+	"visible" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not visible; 1 - visible"
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci
+2015/09/18 20:38:47 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[HY000]: General error: 1 near "AUTO_INCREMENT": syntax error. The SQL statement executed was: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT "",
+	"category_id" INT UNSIGNED NOT NULL,
+	"sub_category_id" INT UNSIGNED NULL DEFAULT NULL,
+	"city_id" INT UNSIGNED NOT NULL ,
+	"short_description" VARCHAR(200) NOT NULL DEFAULT "",
+	"description" TEXT NULL DEFAULT NULL,
+	"image_id" INT UNSIGNED DEFAULT NULL,
+	"modified" INT UNSIGNED NOT NULL,
+	"created" INT UNSIGNED NOT NULL,
+	"author_id" INT UNSIGNED NOT NULL,
+	"date_and_time" DATETIME NOT NULL,
+	"position" INT UNSIGNED NOT NULL DEFAULT 0,
+	"video" TEXT NOT NULL DEFAULT "",
+	"comment" TEXT NULL DEFAULT NULL,
+	"status" INT UNSIGNED NULL DEFAULT NULL,
+	"news_type_id" INT(10) UNSIGNED NOT NULL,
+	"is_share_vk" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in vk; 1 - post in vk",
+	"is_share_google" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in google; 1 - post in google",
+	"is_share_facebook" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in facebook; 1 - post in facebook",
+	"is_share_twitter" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in twitter; 1 - post in twitter",
+	"hot_in_header" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"set_edition" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"news_line" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in line; 1 - in line",
+	"top_news" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not top news; 1 - top news",
+	"foto_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"video_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"is_publicated" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not publicated yet; 1 - already publicate",
+	"visible" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not visible; 1 - visible"
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci.
+2015/09/18 20:38:47 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: CDbCommand failed to prepare the SQL statement: SQLSTATE[HY000]: General error: 1 near "AUTO_INCREMENT": syntax error. The SQL statement executed was: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT "",
+	"category_id" INT UNSIGNED NOT NULL,
+	"sub_category_id" INT UNSIGNED NULL DEFAULT NULL,
+	"city_id" INT UNSIGNED NOT NULL ,
+	"short_description" VARCHAR(200) NOT NULL DEFAULT "",
+	"description" TEXT NULL DEFAULT NULL,
+	"image_id" INT UNSIGNED DEFAULT NULL,
+	"modified" INT UNSIGNED NOT NULL,
+	"created" INT UNSIGNED NOT NULL,
+	"author_id" INT UNSIGNED NOT NULL,
+	"date_and_time" DATETIME NOT NULL,
+	"position" INT UNSIGNED NOT NULL DEFAULT 0,
+	"video" TEXT NOT NULL DEFAULT "",
+	"comment" TEXT NULL DEFAULT NULL,
+	"status" INT UNSIGNED NULL DEFAULT NULL,
+	"news_type_id" INT(10) UNSIGNED NOT NULL,
+	"is_share_vk" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in vk; 1 - post in vk",
+	"is_share_google" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in google; 1 - post in google",
+	"is_share_facebook" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in facebook; 1 - post in facebook",
+	"is_share_twitter" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in twitter; 1 - post in twitter",
+	"hot_in_header" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"set_edition" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"news_line" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in line; 1 - in line",
+	"top_news" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not top news; 1 - top news",
+	"foto_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"video_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"is_publicated" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not publicated yet; 1 - already publicate",
+	"visible" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not visible; 1 - visible"
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci' in /web/yii-1.1.16.bca042/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbCommand.php(1352): CDbCommand->execute()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbMigration.php(250): CDbCommand->createTable('pervayatablica', Array, 'ENGINE=InnoDB D...')
+#2 /web/blog/protected/migrations/m150918_164413_dydlik.php(57): CDbMigration->createTable('pervayatablica', Array, 'ENGINE=InnoDB D...')
+#3 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(415): m150918_164413_dydlik->up()
+#4 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(109): MigrateCommand->migrateUp('m150918_164413_...')
+#5 [internal function]: MigrateCommand->actionUp(Array)
+#6 /web/yii-1.1.16.bca042/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(MigrateCommand), Array)
+#7 /web/yii-1.1.16.bca042/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#8 /web/yii-1.1.16.bca042/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#9 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#10 /web/yii-1.1.16.bca042/framework/yiic.php(33): CApplication->run()
+#11 /web/blog/protected/yiic.php(7): require_once('/web/yii-1.1.16...')
+#12 /web/blog/protected/yiic(4): require_once('/web/blog/prote...')
+#13 {main}
+---
+2015/09/18 20:42:58 [error] [system.db.CDbCommand] Error in preparing SQL: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT "",
+	"category_id" INT UNSIGNED NOT NULL,
+	"sub_category_id" INT UNSIGNED NULL DEFAULT NULL,
+	"city_id" INT UNSIGNED NOT NULL ,
+	"short_description" VARCHAR(200) NOT NULL DEFAULT "",
+	"description" TEXT NULL DEFAULT NULL,
+	"image_id" INT UNSIGNED DEFAULT NULL,
+	"modified" INT UNSIGNED NOT NULL,
+	"created" INT UNSIGNED NOT NULL,
+	"author_id" INT UNSIGNED NOT NULL,
+	"date_and_time" DATETIME NOT NULL,
+	"position" INT UNSIGNED NOT NULL DEFAULT 0,
+	"video" TEXT NOT NULL DEFAULT "",
+	"comment" TEXT NULL DEFAULT NULL,
+	"status" INT UNSIGNED NULL DEFAULT NULL,
+	"news_type_id" INT(10) UNSIGNED NOT NULL,
+	"is_share_vk" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in vk; 1 - post in vk",
+	"is_share_google" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in google; 1 - post in google",
+	"is_share_facebook" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in facebook; 1 - post in facebook",
+	"is_share_twitter" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in twitter; 1 - post in twitter",
+	"hot_in_header" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"set_edition" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"news_line" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in line; 1 - in line",
+	"top_news" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not top news; 1 - top news",
+	"foto_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"video_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"is_publicated" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not publicated yet; 1 - already publicate",
+	"visible" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not visible; 1 - visible"
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci
+2015/09/18 20:42:58 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[HY000]: General error: 1 near "AUTO_INCREMENT": syntax error. The SQL statement executed was: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT "",
+	"category_id" INT UNSIGNED NOT NULL,
+	"sub_category_id" INT UNSIGNED NULL DEFAULT NULL,
+	"city_id" INT UNSIGNED NOT NULL ,
+	"short_description" VARCHAR(200) NOT NULL DEFAULT "",
+	"description" TEXT NULL DEFAULT NULL,
+	"image_id" INT UNSIGNED DEFAULT NULL,
+	"modified" INT UNSIGNED NOT NULL,
+	"created" INT UNSIGNED NOT NULL,
+	"author_id" INT UNSIGNED NOT NULL,
+	"date_and_time" DATETIME NOT NULL,
+	"position" INT UNSIGNED NOT NULL DEFAULT 0,
+	"video" TEXT NOT NULL DEFAULT "",
+	"comment" TEXT NULL DEFAULT NULL,
+	"status" INT UNSIGNED NULL DEFAULT NULL,
+	"news_type_id" INT(10) UNSIGNED NOT NULL,
+	"is_share_vk" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in vk; 1 - post in vk",
+	"is_share_google" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in google; 1 - post in google",
+	"is_share_facebook" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in facebook; 1 - post in facebook",
+	"is_share_twitter" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in twitter; 1 - post in twitter",
+	"hot_in_header" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"set_edition" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	"news_line" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in line; 1 - in line",
+	"top_news" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not top news; 1 - top news",
+	"foto_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"video_in_top" TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	"is_publicated" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not publicated yet; 1 - already publicate",
+	"visible" TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not visible; 1 - visible"
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci.
+2015/09/18 20:45:17 [error] [system.db.CDbCommand] Error in preparing SQL: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT ""
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci
+2015/09/18 20:45:17 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[HY000]: General error: 1 near "AUTO_INCREMENT": syntax error. The SQL statement executed was: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT ""
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci.
+2015/09/18 20:49:03 [error] [system.db.CDbCommand] Error in preparing SQL: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT ""
+)
+2015/09/18 20:49:03 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[HY000]: General error: 1 near "AUTO_INCREMENT": syntax error. The SQL statement executed was: CREATE TABLE 'pervayatablica' (
+	"id" INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	"label" VARCHAR(200) NOT NULL DEFAULT ""
+).
+2015/09/18 21:11:40 [error] [exception.CException] exception 'CException' with message 'Property "CDbConnection.db" is not defined.' in /web/yii-1.1.16.bca042/framework/base/CComponent.php:173
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/YiiBase.php(220): CComponent->__set('db', Array)
+#1 /web/yii-1.1.16.bca042/framework/base/CModule.php(393): YiiBase::createComponent(Array)
+#2 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(472): CModule->getComponent('db')
+#3 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(481): MigrateCommand->getDbConnection()
+#4 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(512): MigrateCommand->getMigrationHistory(-1)
+#5 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(84): MigrateCommand->getNewMigrations()
+#6 [internal function]: MigrateCommand->actionUp(Array)
+#7 /web/yii-1.1.16.bca042/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(MigrateCommand), Array)
+#8 /web/yii-1.1.16.bca042/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#9 /web/yii-1.1.16.bca042/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#10 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#11 /web/yii-1.1.16.bca042/framework/yiic.php(33): CApplication->run()
+#12 /web/blog/protected/yiic.php(7): require_once('/web/yii-1.1.16...')
+#13 /web/blog/protected/yiic(4): require_once('/web/blog/prote...')
+#14 {main}
+---
+2015/09/18 21:11:59 [error] [exception.CException] exception 'CException' with message 'Property "CDbConnection.db" is not defined.' in /web/yii-1.1.16.bca042/framework/base/CComponent.php:173
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/YiiBase.php(220): CComponent->__set('db', Array)
+#1 /web/yii-1.1.16.bca042/framework/base/CModule.php(393): YiiBase::createComponent(Array)
+#2 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(472): CModule->getComponent('db')
+#3 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(481): MigrateCommand->getDbConnection()
+#4 /web/yii-1.1.16.bca042/framework/cli/commands/MigrateCommand.php(128): MigrateCommand->getMigrationHistory(1)
+#5 [internal function]: MigrateCommand->actionDown(Array)
+#6 /web/yii-1.1.16.bca042/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs(Object(MigrateCommand), Array)
+#7 /web/yii-1.1.16.bca042/framework/console/CConsoleCommandRunner.php(71): CConsoleCommand->run(Array)
+#8 /web/yii-1.1.16.bca042/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#9 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#10 /web/yii-1.1.16.bca042/framework/yiic.php(33): CApplication->run()
+#11 /web/blog/protected/yiic.php(7): require_once('/web/yii-1.1.16...')
+#12 /web/blog/protected/yiic(4): require_once('/web/blog/prote...')
+#13 {main}
+---
+2015/09/18 21:14:55 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dydlik.tbl_migration' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tbl_migration`.
+2015/09/18 21:28:26 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42000]: Syntax error or access violation: 1101 BLOB/TEXT column 'video' can't have a default value. The SQL statement executed was: CREATE TABLE `pervayatablica` (
+	`id` INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`label` VARCHAR(200) NOT NULL DEFAULT "",
+	`category_id` INT UNSIGNED NOT NULL,
+	`sub_category_id` INT UNSIGNED NULL DEFAULT NULL,
+	`city_id` INT UNSIGNED NOT NULL ,
+	`short_description` VARCHAR(200) NOT NULL DEFAULT "",
+	`description` TEXT NULL DEFAULT NULL,
+	`image_id` INT UNSIGNED DEFAULT NULL,
+	`modified` INT UNSIGNED NOT NULL,
+	`created` INT UNSIGNED NOT NULL,
+	`author_id` INT UNSIGNED NOT NULL,
+	`date_and_time` DATETIME NOT NULL,
+	`position` INT UNSIGNED NOT NULL DEFAULT 0,
+	`video` TEXT NOT NULL DEFAULT "",
+	`comment` TEXT NULL DEFAULT NULL,
+	`status` INT UNSIGNED NULL DEFAULT NULL,
+	`news_type_id` INT(10) UNSIGNED NOT NULL,
+	`is_share_vk` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in vk; 1 - post in vk",
+	`is_share_google` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in google; 1 - post in google",
+	`is_share_facebook` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in facebook; 1 - post in facebook",
+	`is_share_twitter` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in twitter; 1 - post in twitter",
+	`hot_in_header` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	`set_edition` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	`news_line` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in line; 1 - in line",
+	`top_news` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not top news; 1 - top news",
+	`foto_in_top` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	`video_in_top` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	`is_publicated` TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not publicated yet; 1 - already publicate",
+	`visible` TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not visible; 1 - visible"
+) ENGINE=InnoDB DEFAULT CHARACTER SET=utf8 COLLATE=utf8_unicode_ci.
+2015/09/18 21:30:07 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42000]: Syntax error or access violation: 1101 BLOB/TEXT column 'video' can't have a default value. The SQL statement executed was: CREATE TABLE `pervayatablica` (
+	`id` INT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`label` VARCHAR(200) NOT NULL DEFAULT "",
+	`category_id` INT UNSIGNED NOT NULL,
+	`sub_category_id` INT UNSIGNED NULL DEFAULT NULL,
+	`city_id` INT UNSIGNED NOT NULL ,
+	`short_description` VARCHAR(200) NOT NULL DEFAULT "",
+	`description` TEXT NULL DEFAULT NULL,
+	`image_id` INT UNSIGNED DEFAULT NULL,
+	`modified` INT UNSIGNED NOT NULL,
+	`created` INT UNSIGNED NOT NULL,
+	`author_id` INT UNSIGNED NOT NULL,
+	`date_and_time` DATETIME NOT NULL,
+	`position` INT UNSIGNED NOT NULL DEFAULT 0,
+	`video` TEXT NOT NULL DEFAULT "",
+	`comment` TEXT NULL DEFAULT NULL,
+	`status` INT UNSIGNED NULL DEFAULT NULL,
+	`news_type_id` INT(10) UNSIGNED NOT NULL,
+	`is_share_vk` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in vk; 1 - post in vk",
+	`is_share_google` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in google; 1 - post in google",
+	`is_share_facebook` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in facebook; 1 - post in facebook",
+	`is_share_twitter` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - do not post in twitter; 1 - post in twitter",
+	`hot_in_header` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	`set_edition` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not set as edition; 1 - set as edition",
+	`news_line` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in line; 1 - in line",
+	`top_news` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not top news; 1 - top news",
+	`foto_in_top` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	`video_in_top` TINYINT(1) UNSIGNED NOT NULL DEFAULT 0 COMMENT "0 - not in top; 1 - in top",
+	`is_publicated` TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not publicated yet; 1 - already publicate",
+	`visible` TINYINT(1) UNSIGNED NOT NULL DEFAULT 1 COMMENT "0 - not visible; 1 - visible"
+).
+2015/09/19 19:45:08 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii
+---
+2015/09/19 19:46:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/crud/CrudCode.php(44): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): CrudCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/crud/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/crud/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/controller/index
+---
+2015/09/19 19:46:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/controller/index
+---
+2015/09/19 20:03:13 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii
+---
+2015/09/19 20:04:40 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/module/index
+---
+2015/09/19 20:04:46 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/crud/CrudCode.php(44): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): CrudCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/crud/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/crud/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/controller/index
+---
+2015/09/19 20:04:50 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/crud/CrudCode.php(44): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): CrudCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/crud/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/crud/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/controller/index
+---
+2015/09/19 20:04:56 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/form/index
+---
+2015/09/19 20:05:04 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [14] unable to open database file' in /web/yii-1.1.16.bca042/framework/db/CDbConnection.php:399
+Stack trace:
+#0 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(347): CDbConnection->open()
+#1 /web/yii-1.1.16.bca042/framework/db/CDbConnection.php(325): CDbConnection->setActive(true)
+#2 /web/yii-1.1.16.bca042/framework/base/CModule.php(394): CDbConnection->init()
+#3 /web/yii-1.1.16.bca042/framework/base/CModule.php(103): CModule->getComponent('db')
+#4 /web/yii-1.1.16.bca042/framework/gii/generators/model/ModelCode.php(60): CModule->__get('db')
+#5 /web/yii-1.1.16.bca042/framework/web/CFormModel.php(39): ModelCode->init()
+#6 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(153): CFormModel->__construct()
+#7 /web/yii-1.1.16.bca042/framework/gii/CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /web/yii-1.1.16.bca042/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /web/yii-1.1.16.bca042/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): CController->run('index')
+#13 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#15 /web/blog/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/blog/index.php?r=gii/model/index
+HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/module/index
+---
