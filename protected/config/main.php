@@ -53,11 +53,16 @@ return array(
 
 		// database settings are configured in database.php
 		'db'=>array(
-            		'connectionString'=>'sqlite:/var/www/blog/protected/data/blog.db',
-//            		'connectionString'=> 'mysql:host=localhost;dbname=dydlik',
-			'username' => 'root',
-			'password' => '',
-            		'tablePrefix'=>'tbl_',
+//			'class'=>'CDbConnection',
+//            		'connectionString'=>'sqlite:/var/www/blog/protected/data/blog.db',
+//            		'connectionString'=> 'mysql:host=localhost;dbname=blog',
+			'connectionString'=>'sqlite:protected/data/blog.db',
+
+//			'username' => 'root',
+//			'password' => '',
+//            		'tablePrefix'=>'tbl_',
+//			'connectionString'=>'/var/www/blog/protected/data/blog.db',
+			'tablePrefix'=>'tbl_',
 		),
 
 		'errorHandler'=>array(
