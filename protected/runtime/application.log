@@ -1201,3 +1201,43 @@ Stack trace:
 REQUEST_URI=/blog/index.php?r=gii/model/index
 HTTP_REFERER=http://127.0.0.1/blog/index.php?r=gii/module/index
 ---
+2015/09/20 23:02:47 [error] [php] include(User.php): failed to open stream: No such file or directory (/web/yii-1.1.16.bca042/framework/YiiBase.php:432)
+Stack trace:
+#0 /web/blog/protected/components/UserIdentity.php(46): spl_autoload_call()
+#1 /web/blog/protected/models/LoginForm.php(52): UserIdentity->authenticate()
+#2 /web/yii-1.1.16.bca042/framework/validators/CInlineValidator.php(42): LoginForm->authenticate()
+#3 /web/yii-1.1.16.bca042/framework/validators/CValidator.php(201): CInlineValidator->validateAttribute()
+#4 /web/yii-1.1.16.bca042/framework/base/CModel.php(159): CInlineValidator->validate()
+#5 /web/blog/protected/controllers/SiteController.php(94): LoginForm->validate()
+#6 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#7 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /web/yii-1.1.16.bca042/framework/web/CController.php(286): SiteController->runAction()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#10 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): SiteController->run()
+#11 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#13 /web/blog/index.php(14): CWebApplication->run()
+REQUEST_URI=/blog/index.php?r=site/login
+in /web/blog/protected/components/UserIdentity.php (46)
+in /web/blog/protected/models/LoginForm.php (52)
+in /web/blog/protected/controllers/SiteController.php (94)
+2015/09/20 23:07:07 [error] [php] include(User.php): failed to open stream: No such file or directory (/web/yii-1.1.16.bca042/framework/YiiBase.php:432)
+Stack trace:
+#0 /web/blog/protected/components/UserIdentity.php(46): spl_autoload_call()
+#1 /web/blog/protected/models/LoginForm.php(52): UserIdentity->authenticate()
+#2 /web/yii-1.1.16.bca042/framework/validators/CInlineValidator.php(42): LoginForm->authenticate()
+#3 /web/yii-1.1.16.bca042/framework/validators/CValidator.php(201): CInlineValidator->validateAttribute()
+#4 /web/yii-1.1.16.bca042/framework/base/CModel.php(159): CInlineValidator->validate()
+#5 /web/blog/protected/controllers/SiteController.php(94): LoginForm->validate()
+#6 /web/yii-1.1.16.bca042/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#7 /web/yii-1.1.16.bca042/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /web/yii-1.1.16.bca042/framework/web/CController.php(286): SiteController->runAction()
+#9 /web/yii-1.1.16.bca042/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#10 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(282): SiteController->run()
+#11 /web/yii-1.1.16.bca042/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /web/yii-1.1.16.bca042/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#13 /web/blog/index.php(14): CWebApplication->run()
+REQUEST_URI=/blog/index.php?r=site/login
+in /web/blog/protected/components/UserIdentity.php (46)
+in /web/blog/protected/models/LoginForm.php (52)
+in /web/blog/protected/controllers/SiteController.php (94)

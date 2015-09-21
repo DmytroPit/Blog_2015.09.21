@@ -30,4 +30,32 @@ $this->menu=array(
 		'update_time',
 		'author_id',
 	),
-)); ?>
+));
+?>
+
+//Iz primera bloga
+
+<div id="comments">
+	<?php if($model->commentCount>=1): ?>
+	<h3>
+		echo $model->commentCount . 'comment(s)'; ?>
+	</h3>
+
+	$this->renderPartial('_comments',array(
+	'post'=>$model,
+	'comments'=>$model->comments,
+	)); ?>
+	endif; ?>
+
+	<h3>Оставить комментарий</h3>
+
+	<?php if(Yii::app()->user->hasFlash('commentSubmitted')): ?>
+	<div class="flash-success">
+		echo Yii::app()->user->getFlash('commentSubmitted'); ?>
+	</div>
+	else: ?>
+	$this->renderPartial('/comment/_form',array(
+	'model'=>$comment,
+	)); ?>
+	endif; ?>
+</div>

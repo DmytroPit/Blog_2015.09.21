@@ -1,6 +1,7 @@
 <?php
 
-class DimaModule extends CWebModule
+//class DimaModule extends CWebModule
+class DimaModule extends CActiveRecord
 {
 	public function init()
 	{
@@ -25,4 +26,14 @@ class DimaModule extends CWebModule
 		else
 			return false;
 	}
+//    Vstavlyaem iz rykovodstva po sozdaniu bloga
+    public function validatePassword($password)
+    {
+        return CPasswordHelper::verifyPassword($password,$this->password);
+    }
+
+    public function hashPassword($password)
+    {
+        return CPasswordHelper::hashPassword($password);
+    }
 }

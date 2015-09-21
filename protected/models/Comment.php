@@ -18,6 +18,9 @@
  */
 class Comment extends CActiveRecord
 {
+//	Dobavil is primera bloga
+	const STATUS_PENDING=1;
+	const STATUS_APPROVED=2;
 	/**
 	 * @return string the associated database table name
 	 */
@@ -31,15 +34,24 @@ class Comment extends CActiveRecord
 	 */
 	public function rules()
 	{
+//		Izna4al'nuy kod
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
+//		return array(
+//			array('content, status, author, email, post_id', 'required'),
+//			array('status, create_time, post_id', 'numerical', 'integerOnly'=>true),
+//			array('author, email, url', 'length', 'max'=>128),
+//			// The following rule is used by search().
+//			// @todo Please remove those attributes that should not be searched.
+//			array('id, content, status, create_time, author, email, url, post_id', 'safe', 'on'=>'search'),
+//		);
+
+//		KOd primera bloga
 		return array(
-			array('content, status, author, email, post_id', 'required'),
-			array('status, create_time, post_id', 'numerical', 'integerOnly'=>true),
+			array('content, author, email', 'required'),
 			array('author, email, url', 'length', 'max'=>128),
-			// The following rule is used by search().
-			// @todo Please remove those attributes that should not be searched.
-			array('id, content, status, create_time, author, email, url, post_id', 'safe', 'on'=>'search'),
+			array('email','email'),
+			array('url','url'),
 		);
 	}
 
@@ -60,14 +72,27 @@ class Comment extends CActiveRecord
 	 */
 	public function attributeLabels()
 	{
+//		Originalnyu kod blia
+//		return array(
+//			'id' => 'ID',
+//			'content' => 'Content',
+//			'status' => 'Status',
+//			'create_time' => 'Create Time',
+//			'author' => 'Author',
+//			'email' => 'Email',
+//			'url' => 'Url',
+//			'post_id' => 'Post',
+//		);
+
+//		Primer bloga
 		return array(
-			'id' => 'ID',
-			'content' => 'Content',
+			'id' => 'Id',
+			'content' => 'Comment',
 			'status' => 'Status',
 			'create_time' => 'Create Time',
-			'author' => 'Author',
+			'author' => 'Name',
 			'email' => 'Email',
-			'url' => 'Url',
+			'url' => 'Website',
 			'post_id' => 'Post',
 		);
 	}
@@ -113,5 +138,26 @@ class Comment extends CActiveRecord
 	public static function model($className=__CLASS__)
 	{
 		return parent::model($className);
+	}
+
+//	Iz primera bloga
+	protected function beforeSave()
+	{
+		if(parent::beforeSave())
+		{
+			if($this->isNewRecord)
+				$this->create_time=time();
+			return true;
+		}
+		else
+			return false;
+	}
+
+//	Iz primera bloga
+
+	public function approve()
+	{
+		$this->status=Comment::STATUS_APPROVED;
+		$this->update(array('status'));
 	}
 }
